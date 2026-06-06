@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BusnissLogicLayer/BusnissLogicLayer.csproj" />
+  <Project Path="DataAccessLayer/DataAccessLayer.csproj" />
+  <Project Path="LibraryProjectUni/LibraryProjectUni.csproj" />
+</Solution>
